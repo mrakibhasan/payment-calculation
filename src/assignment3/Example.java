@@ -5,6 +5,8 @@ public class Example
 {
 	public static void main (String[] args)
 	{
+		
+		//take the input from user
 		Scanner input = new Scanner(System.in);
 
 		String firstname,lastname;
